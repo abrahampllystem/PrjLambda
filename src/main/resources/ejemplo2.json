@@ -1,0 +1,25 @@
+{
+  "biblioteca":{
+    "autor":[
+      {
+        "nombre":"Cesar vallejo",
+        "pais":"peru",
+        "monto":20
+      }
+    ],
+    "obra":[
+      {
+        "titulo":"trilce",
+        "paginas":400,
+        "genero":"bueno",
+        "monto":10
+      },
+      {
+        "titulo":"trilce",
+        "paginas":400,
+        "genero":"malo",
+        "monto":10
+      }
+    ]
+  }
+}

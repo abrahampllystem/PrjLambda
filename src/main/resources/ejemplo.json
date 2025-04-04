@@ -1,0 +1,37 @@
+{
+  "bibliotecaJson": {
+    "autor": [
+      {
+        "nombre":"Cesar vallejo",
+        "pais": "peru",
+        "monto": 100
+      }
+    ],
+    "obra": [
+      {
+        "titulo": "Paco Yunque",
+        "paginas": "300",
+        "genero": null,
+        "monto": 20
+      },
+      {
+        "titulo": "masa",
+        "paginas": "300",
+        "genero": null,
+        "monto": 60
+      },
+      {
+        "titulo": "trilce",
+        "paginas": "400",
+        "genero": "bueno",
+        "monto": 10
+      },
+      {
+        "titulo": "trilce",
+        "paginas": "400",
+        "genero": "malo",
+        "monto": 104
+      }
+    ]
+  }
+}
